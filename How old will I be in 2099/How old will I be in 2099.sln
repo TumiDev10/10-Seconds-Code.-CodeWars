@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How old will I be in 2099", "How old will I be in 2099\How old will I be in 2099.csproj", "{619F7C23-7602-4D0C-A860-95071268850E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{619F7C23-7602-4D0C-A860-95071268850E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619F7C23-7602-4D0C-A860-95071268850E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619F7C23-7602-4D0C-A860-95071268850E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619F7C23-7602-4D0C-A860-95071268850E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92F59F31-BA6B-46D9-9287-0BBF6491D5B3}
+	EndGlobalSection
+EndGlobal

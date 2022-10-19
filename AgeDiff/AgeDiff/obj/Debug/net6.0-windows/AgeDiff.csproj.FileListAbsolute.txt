@@ -1,0 +1,17 @@
+C:\Users\Tumi\source\repos\AgeDiff\AgeDiff\bin\Debug\net6.0-windows\AgeDiff.exe
+C:\Users\Tumi\source\repos\AgeDiff\AgeDiff\bin\Debug\net6.0-windows\AgeDiff.deps.json
+C:\Users\Tumi\source\repos\AgeDiff\AgeDiff\bin\Debug\net6.0-windows\AgeDiff.runtimeconfig.json
+C:\Users\Tumi\source\repos\AgeDiff\AgeDiff\bin\Debug\net6.0-windows\AgeDiff.dll
+C:\Users\Tumi\source\repos\AgeDiff\AgeDiff\bin\Debug\net6.0-windows\AgeDiff.pdb
+C:\Users\Tumi\source\repos\AgeDiff\AgeDiff\obj\Debug\net6.0-windows\AgeDiff.csproj.AssemblyReference.cache
+C:\Users\Tumi\source\repos\AgeDiff\AgeDiff\obj\Debug\net6.0-windows\AgeDiff.Form1.resources
+C:\Users\Tumi\source\repos\AgeDiff\AgeDiff\obj\Debug\net6.0-windows\AgeDiff.csproj.GenerateResource.cache
+C:\Users\Tumi\source\repos\AgeDiff\AgeDiff\obj\Debug\net6.0-windows\AgeDiff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tumi\source\repos\AgeDiff\AgeDiff\obj\Debug\net6.0-windows\AgeDiff.AssemblyInfoInputs.cache
+C:\Users\Tumi\source\repos\AgeDiff\AgeDiff\obj\Debug\net6.0-windows\AgeDiff.AssemblyInfo.cs
+C:\Users\Tumi\source\repos\AgeDiff\AgeDiff\obj\Debug\net6.0-windows\AgeDiff.csproj.CoreCompileInputs.cache
+C:\Users\Tumi\source\repos\AgeDiff\AgeDiff\obj\Debug\net6.0-windows\AgeDiff.dll
+C:\Users\Tumi\source\repos\AgeDiff\AgeDiff\obj\Debug\net6.0-windows\refint\AgeDiff.dll
+C:\Users\Tumi\source\repos\AgeDiff\AgeDiff\obj\Debug\net6.0-windows\AgeDiff.pdb
+C:\Users\Tumi\source\repos\AgeDiff\AgeDiff\obj\Debug\net6.0-windows\AgeDiff.genruntimeconfig.cache
+C:\Users\Tumi\source\repos\AgeDiff\AgeDiff\obj\Debug\net6.0-windows\ref\AgeDiff.dll

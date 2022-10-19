@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The 'if' function", "The 'if' function\The 'if' function.csproj", "{5F126388-0DEC-4085-B510-001C8518F83A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F126388-0DEC-4085-B510-001C8518F83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F126388-0DEC-4085-B510-001C8518F83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F126388-0DEC-4085-B510-001C8518F83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F126388-0DEC-4085-B510-001C8518F83A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1DE3E09-D7DC-4381-B0B0-13ADEB180126}
+	EndGlobalSection
+EndGlobal
